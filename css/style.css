@@ -1,0 +1,291 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+body{
+    background-color: #fff;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#header{
+    border: 2px solid black;
+    width: 900px;
+    height: 200px;
+    margin: 100px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.navlink a{
+
+    text-decoration: none;
+    margin: 25px;
+    color: #6C63FF;
+}
+
+.nav-Sign-In{
+
+    border: 2px solid #6C63FF;
+    background-color: #fff;
+    width: 110px;
+    height: 46px;
+    padding: 15px;
+
+}
+
+#hero-section{
+    border: 2px solid black;
+    margin: 100px;
+   
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.heroTxt{
+    font-family: Roboto,sans-serif;
+    font-weight: 700px;
+    font-size: 30px;
+}
+
+.heroTxt h1{
+       
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 56px;
+}
+
+.heroTxt p{
+
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        color: #333333;
+}
+
+.heroTxt a{
+    border: 1px solid black;
+    color: #fff;
+    background-color: #6C63FF ;
+    text-decoration: none;
+    padding: 25px;
+
+}
+
+
+#section-1{
+
+    border: 2px solid black;
+    margin-top: 100px;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.second-img{
+
+    display: inline-flex;
+    justify-content: space-around;
+    height: 474px;
+    
+    
+}
+
+.utah{
+
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+.baniff{
+
+    margin-top: 9px;
+}
+
+.arrow{
+
+    
+    position: relative;
+    left: 170px;
+    margin-bottom: 100px;
+    top: -90px;
+    color: #fff;
+}
+
+.arrow p{
+
+    position: relative;
+    top: -11px;
+}
+
+.arrow-icon p{
+
+    color: black;
+    position: relative;
+    left: 180px;
+    top: -50px;
+}
+
+.ptag{
+    
+    border: 1px solid #6C63FF;
+    color: black;
+    position: absolute;
+    left: 160px;
+    margin-top: 50px;
+    
+    background-color: #6C63FF;
+    
+}
+
+.pTag {
+
+    border: 1px solid #6C63FF;
+    color: black;
+    position: absolute;
+    left: 478px;
+    margin-top: 70px;
+     background-color: #6C63FF;
+
+}
+
+.pName{
+
+  
+        color: #fff;
+        position: absolute;
+        left: 478px;
+        margin-top: 400px;
+       
+}
+
+.second-txt{
+    width: 414px;
+    height: 99px;
+    font-family: open sans-serif;
+    margin-right: 300px;
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 50px;
+    
+}
+
+ .exploreBtn{
+
+            height: 46px;
+            width: 142px;
+            padding: 20px;
+            border-radius: 0px;
+            background: #6C63FF;
+            text-decoration: none;
+            color: #fff;
+ } 
+
+ #section-2{
+
+    border: 2px solid black;
+    margin: 100px;
+    
+
+ }
+
+ .sectionTwo-txt{
+        
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 30px;
+
+
+    
+    
+ }
+
+ .sectionTwo-txt h1{
+       
+         padding: 30px;
+         width: 272px;
+         height: 50px;
+ }
+
+
+ .sectionTwo-img{
+
+    display: flex;
+    justify-content: space-evenly ;
+    align-items: center;
+ }
+
+.sectionTwo-txt p{
+
+    margin:20px ;
+
+}
+
+.seectionTwo-imgB img{
+
+      margin: 10px;
+}
+
+#section-2{
+
+    border: 2px solid black;
+    height: 650px; 
+
+}
+
+.sectionThree-txt h2{
+
+    font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 49px;
+    
+        color: #333333
+}
+
+.sectionThree-txt p{
+
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        color: #333333;
+}
+
